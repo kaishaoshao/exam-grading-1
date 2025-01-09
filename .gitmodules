@@ -7,3 +7,9 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/kaishaoshao/rustlings.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/kaishaoshao/learning-lm-rs.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/kaishaoshao/TinyInfiniTensor.git
