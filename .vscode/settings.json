@@ -66,6 +66,11 @@
         "semaphore": "cpp",
         "stop_token": "cpp",
         "thread": "cpp",
-        "__nullptr": "cpp"
+        "__nullptr": "cpp",
+        "random": "cpp",
+        "deque": "cpp",
+        "numeric": "cpp",
+        "__verbose_abort": "cpp",
+        "execution": "cpp"
     }
 }
